@@ -1,0 +1,17 @@
+int8 brake
+int8 handbrake
+int8 clutch
+int8 engine
+int8 horn
+int8 headlights
+int8 interiorlights
+int8 leftsignal
+int8 rightsignal
+int8 camdown
+int8 camback
+int8 camright
+int8 camleft
+int8 camup
+int8 togglecam
+---
+bool ok
