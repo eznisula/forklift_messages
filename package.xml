@@ -3,7 +3,7 @@
 <package format="3">
   <name>forklift_messages</name>
   <version>0.0.0</version>
-  <description>ROS2 message including Forklift acceleration, brakes, lights and such.</description>
+  <description>ROS2 messages including Forklift acceleration, brakes, forks and such.</description>
   <maintainer email="eetu.nisula@protonmail.com">eevee</maintainer>
   <license>Open source :D</license>
 

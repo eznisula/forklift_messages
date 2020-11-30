@@ -25,6 +25,8 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ForkliftControlMsg.msg"
   "srv/ForkliftControlSrv.srv"
+  "msg/ForksControlMsg.msg"
+  "srv/ForksControlSrv.srv"
  )
 
 if(BUILD_TESTING)
